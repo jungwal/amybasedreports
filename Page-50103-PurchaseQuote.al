@@ -8,6 +8,7 @@ pageextension 50103 PurchaseQuote extends "Purchase Quote"
             field("RFQ No."; "RFQ No.")
             {
                 ApplicationArea = all;
+                Caption = 'RFQ No.';
             }
         }
     }
