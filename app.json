@@ -1,0 +1,25 @@
+{
+  "id": "2277fe90-2c22-4461-9b95-6ac99b7af393",
+  "name": "Requistion",
+  "publisher": "Abhishek Jungwal(AMY SOFTECH)",
+  "version": "1.0.0.3",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}
